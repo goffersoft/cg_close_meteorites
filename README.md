@@ -8,5 +8,5 @@ First, install pipenv, then:
 
 ```
 pipenv install
-pipenv run python close_meteorites.py
+pipenv run python meteor/close_meteorites.py
 ```
